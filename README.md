@@ -11,14 +11,14 @@ This repository is created as part of **Task 4** of my DevOps internship to demo
 ## 📂 Project Structure
 
 Devops-dummy-project/ 
-├── Docker/ <br>
-│ └── Dockerfile <br> 
-├── Jenkins/ <br>
-│ └── Jenkinsfile <br> 
-├── Ansible/ <br>
-│ └── playbook.yml <br>
-├── .gitignore <br>
-└── README.md <br>
+├── Docker/<br>
+│ └── Dockerfile<br> 
+├── Jenkins/<br>
+│ └── Jenkinsfile<br> 
+├── Ansible/<br>
+│ └── playbook.yml<br>
+├── .gitignore<br>
+└── README.md<br>
 
 ---
 
